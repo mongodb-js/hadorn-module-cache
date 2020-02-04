@@ -19,14 +19,14 @@
     "check": "mongodb-js-precommit"
   },
   "dependencies": {
-    "debug": "^2.2.0",
-    "fs-plus": "^2.8.2",
-    "semver": "^5.1.0"
+    "debug": "^4.1.1",
+    "fs-plus": "^3.1.1",
+    "semver": "^7.1.2"
   },
   "devDependencies": {
-    "chai": "^3.4.1",
+    "chai": "^4.2.0",
     "eslint-config-mongodb-js": "^5.0.3",
-    "mocha": "^3.1.2",
+    "mocha": "^7.0.1",
     "mongodb-js-precommit": "^2.2.0"
   }
 }
